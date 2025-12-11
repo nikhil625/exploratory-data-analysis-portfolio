@@ -85,11 +85,6 @@ Each project demonstrates:
 
 ---
 
-## Contributing
-
-If you'd like to contribute improvements, please fork the repo and open a PR.
-
----
 
 ## License
 
