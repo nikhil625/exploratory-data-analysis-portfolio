@@ -53,8 +53,6 @@ Each project demonstrates:
 - Delhivery: https://colab.research.google.com/drive/1MYclHB7lBUMKy93ikRIjEAAWl9HAqHRH?usp=sharing
 - Yulu: https://colab.research.google.com/drive/1eqpZp5Tp3qDqzpUjGCFRWwORcYFtSXAD?usp=sharing
 
-> Note: You can either keep these as Colab links (readers open notebooks in Colab) or download the `.ipynb` files and upload them into the repo (recommended).
-
 ---
 
 ## How to run locally
@@ -62,7 +60,7 @@ Each project demonstrates:
    ```
    pip install pandas numpy matplotlib seaborn scikit-learn scipy jupyter
    ```
-2. Open notebooks with Jupyter or upload to Colab and `Runtime → Run all`.
+2. Open notebooks with Colab and `Runtime → Run all`.
 
 ---
 
@@ -82,7 +80,7 @@ Each project demonstrates:
 - **Dimensionality Reduction:** PCA, t-SNE
 - **Clustering / Segmentation:** DBSCAN (density-based), k-means (where applicable)
 - **Statistical Tests:** t-tests, ANOVA, correlation analysis
-- **Visualization:** matplotlib, seaborn, plotly (optional in notebooks)
+- **Visualization:** matplotlib, seaborn, plotly 
 
 ---
 
