@@ -11,16 +11,17 @@
 ```
 eda-case-studies/
 ├── Netflix/
-│   ├── netflix_eda.ipynb
+│   ├── netflix_casestudy.ipynb
 │   └── README.md
 ├── Walmart/
-│   ├── walmart_blackfriday_eda.ipynb
+│   ├── walmart_cstudy.ipynb
 │   └── README.md
 ├── Delhivery/
-│   ├── delhivery_feature_engineering.ipynb
+│   ├── Delhivery_casestudy.ipynb
+
 │   └── README.md
 ├── Yulu/
-│   ├── yulu_demand_analysis.ipynb
+│   ├── yulu.ipynb
 │   └── README.md
 ├── assets/
 │   └── ...
